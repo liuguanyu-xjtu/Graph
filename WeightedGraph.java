@@ -1,3 +1,8 @@
+/*
+*刘冠宇 西安交通大学 20141212
+*Liu Guanyu XJTU 
+*/
+
 publiv class WeightedGraph<V> implements  AbstractGraph<V>{
 	java.util.Vector<V> vertexs=null;
 	Integer[][] edges=null;
